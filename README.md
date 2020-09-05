@@ -1,7 +1,7 @@
-# xpresso
+# Xpresso
 A project about finding user expressions during conversations.
 
-# motivation
+# Motivation
 TBD
 
 # Screen Shots
